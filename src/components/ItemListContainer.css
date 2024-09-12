@@ -1,0 +1,14 @@
+.item-list-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.greeting-message {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+}
